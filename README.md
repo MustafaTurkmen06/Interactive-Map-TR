@@ -64,7 +64,7 @@ python manage.py runserver
 
 Bu proje açık kaynaklıdır. **Lisans bilgileri ve iletişim detayları için proje dosyalarına göz atabilirsiniz.**
 
-📩 Daha fazla bilgi almak veya projeye katkı sağlamak için **xberkay-o** GitHub hesabıyla iletişime geçebilirsiniz. 🚀✨
+📩 Daha fazla bilgi almak veya projeye katkı sağlamak için **xberkay-o, MustafaTurkmen06** GitHub hesabıyla iletişime geçebilirsiniz. 🚀✨
 
 ---
 
